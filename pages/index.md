@@ -9,9 +9,9 @@ hero:
   actions:
     - theme: brand
       text: 团队信息
-      link: /markdown-examples
+      link: /introduction
     - theme: alt
       text: 团队成员
-      link: /api-examples
+      link: /member
 ---
 
