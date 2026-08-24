@@ -24,7 +24,10 @@ export default defineConfig({
       {
         text: 'Member',
         items: [
-          { text: 'advan10', link: '/member/advan10' }
+          { text: 'advan10', link: '/member/advan10' },
+          { text: 'RegadPole', link: '/member/regadpole'},
+          { text: 'BeiChen', link: '/member/beichen'},
+          { text: '杉枫狸 ', link: '/member/shanfengfox'}
         ]
       }
     ],
