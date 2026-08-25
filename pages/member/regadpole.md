@@ -47,4 +47,4 @@ TBC...
  - B站：[https://space.bilibili.com/500918417](https://space.bilibili.com/500918417)
  - 抖音：[https://v.douyin.com/138IKpiWOAE/](https://v.douyin.com/138IKpiWOAE/)
  - Github：[RegadPoleCN](https://github.com/RegadPoleCN)
- - mail: [165123735@qq.com](mailto:1651233735@qq.com)
+ - mail: [rp@fpstd.com](mailto:rp@fpstd.com)
