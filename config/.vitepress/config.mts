@@ -18,16 +18,16 @@ export default defineConfig({
         text: 'Group',
         items: [
           { text: 'About group', link: '/introduction' },
-          { text: 'Connect us', link: '/connect' }
+          { text: 'Connect us', link: '/connect' },
         ]
       },
       {
         text: 'Member',
         items: [
           { text: 'advan10', link: '/member/advan10' },
-          { text: 'RegadPole', link: '/member/regadpole'},
-          { text: 'BeiChen', link: '/member/beichen'},
-          { text: '杉枫狸 ', link: '/member/shanfengfox'}
+          { text: 'RegadPole', link: '/member/regadpole' },
+          { text: 'BeiChen', link: '/member/beichen' },
+          { text: '杉枫狸 ', link: '/member/shanfengfox' },
         ]
       }
     ],
