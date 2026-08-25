@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   srcDir: "../pages",
+  cleanUrls: true,
 
   title: "Fishpond Studio",
   description: "This is an Official Website for Fishpond Studio. Version 0.1.0",
