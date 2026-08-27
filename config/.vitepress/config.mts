@@ -29,7 +29,7 @@ export default defineConfig({
           { text: 'RegadPole', link: '/member/regadpole' },
           { text: 'BeiChen', link: '/member/beichen' },
           { text: '杉枫狸 ', link: '/member/shanfengfox' },
-          { text: 'Jason', link: '/member/jason31416' },
+          { text: 'Jason31416', link: '/member/jason31416' },
         ]
       }
     ],
